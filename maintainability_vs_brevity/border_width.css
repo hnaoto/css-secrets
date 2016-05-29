@@ -1,0 +1,15 @@
+
+body{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+}
+
+
+button {
+	border-width:10px;
+	border-left-width:0px;
+	background-color:black;
+	color: #FFF;
+}
+
+
