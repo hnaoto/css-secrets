@@ -1,0 +1,43 @@
+body {
+	
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+}
+
+
+
+
+.b1 {
+		background-color:#bbb;
+}
+
+.b2 {
+	
+		background-color:#FFF;
+}
+
+
+.callout{
+	position: relative;
+	border: 1px #bbb solid;
+	margin: 50px;
+    padding: 50px;
+	border-radius: 5px;
+}
+
+.callout:before {
+	content: "";
+	position: absolute;
+	top: -0.4em; 
+	left: 1em;
+	padding: 0.35em;
+	border: inherit;
+	border-right: 0;
+	border-bottom: 0;
+	transform: rotate(45deg);
+	background-color:inherit;
+	
+}
+
+
+
