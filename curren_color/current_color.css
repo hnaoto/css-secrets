@@ -1,0 +1,18 @@
+body {
+	
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+}
+
+div {
+	background-color: #FFF;
+	height:20em;
+	width:50%;
+	color: black;
+	font-size: 1rem;
+}
+
+hr {
+	height: 0.5em;
+	background:currentColor;
+}
