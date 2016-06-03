@@ -12,7 +12,6 @@ body {
 }
 
 .b2 {
-	
 		background-color:#FFF;
 }
 
@@ -24,6 +23,20 @@ body {
     padding: 50px;
 	border-radius: 5px;
 }
+
+
+
+.callout:after{
+   content: "";
+   position: absolute;
+   top: 100%;
+   left: 20px;
+   border-top: 20px solid blue;
+   border-top-color: inherit; 
+   border-left: 20px solid transparent;
+   border-right: 20px solid transparent; 
+}
+
 
 .callout:before {
 	content: "";
